@@ -62,10 +62,10 @@
 <table border="0" width="100%">
   <tr>
     <td width="30%" align="center" bgcolor="transparent">
-      <h3>🚀 Top Languages</h3>
+      <h3 style="margin: 0; padding: 0;">🚀 Top Languages</h3>
     </td>
     <td width="80%" align="center">
-       <h3>📈 Contribution Activity</h3>
+       <h3 style="margin: 0; padding: 0;">📈 Contribution Activity</h3>
     </td>
   </tr>
   <tr>
