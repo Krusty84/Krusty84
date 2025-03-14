@@ -62,10 +62,10 @@
 <table border="0" width="100%">
   <tr>
     <td width="30%" align="center" bgcolor="transparent">
-      <b style="font-size:24px">🚀 Top Languages</b>
+      <h3>🚀 Top Languages</h3>
     </td>
     <td width="80%" align="center">
-      <b style="font-size:24px">📈 Contribution Activity</b>
+       <h3>📈 Contribution Activity</h3>
     </td>
   </tr>
   <tr>
@@ -81,10 +81,10 @@
 <table border="0">
     <tr>
     <td width="40%" align="center" bgcolor="transparent">
-      <b style="font-size:24px">📊 GitHub Stats</b>
+      <h3>📊 GitHub Stats</h3>
     </td>
     <td width="60%" align="center">
-      <b style="font-size:24px">🏅 GitHub Achievements</b>
+      <h3>🏅 GitHub Achievements</h3>
     </td>
   </tr>
   <tr>
