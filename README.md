@@ -59,28 +59,45 @@
 </p>
 
 ---
+<table border="0" width="100%">
+  <tr>
+    <td width="30%" align="center" bgcolor="transparent">
+      <b style="font-size:24px">🚀 Top Languages</b>
+    </td>
+    <td width="80%" align="center">
+      <b style="font-size:24px">📈 Contribution Activity</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="40%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krusty84&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+    <td width="60%" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krusty84&theme=radical" alt="Contribution Activity" />
+    </td>
+  </tr>
+</table>
 
-### 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krusty84&show_icons=true&theme=radical)
-
----
-
-### 🚀 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krusty84&layout=compact&theme=radical)
+<table border="0">
+    <tr>
+    <td width="40%" align="center" bgcolor="transparent">
+      <b style="font-size:24px">📊 GitHub Stats</b>
+    </td>
+    <td width="60%" align="center">
+      <b style="font-size:24px">🏅 GitHub Achievements</b>
+    </td>
+  </tr>
+  <tr>
+    <td> <img src="https://github-readme-stats.vercel.app/api?username=Krusty84&show_icons=true&theme=radical" alt="GitHub Stats"/> </td>
+    <td> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krusty84&theme=radical" alt="GitHub Achievements"/> </td>
+ </tr>
+</table>
 
 ---
 
 ### 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Krusty84&theme=radical)
-
----
-
-### 📈 Profile Views
-
-![Profile Views](https://u8views.com/api/v1/github/profiles/Krusty84/views/day-week-month-total-count.svg)
 
 ---
 
