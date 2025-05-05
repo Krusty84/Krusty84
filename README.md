@@ -20,7 +20,9 @@
 
 - [Occura Plugin (Obsidian.md)](https://obsidian.md/plugins?search=occura)  
   A plugin for Obsidian.md to find and highlight all occurrences of selected text in notes, similar to Notepad++ or IDEs.
-
+  
+- [LoggerHelper](https://swiftpackageindex.com/Krusty84/LoggerHelper)\
+  A simple Swift logging library for macOS apps. Log messages at different levels (info, warning, debug, error), control logging globally, and customize subsystem and category for each message.
 ---
 ### 🛠️ Technologies & Tools
 
