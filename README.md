@@ -23,6 +23,9 @@
   
 - [LoggerHelper](https://swiftpackageindex.com/Krusty84/LoggerHelper)\
   A simple Swift logging library for macOS apps. Log messages at different levels (info, warning, debug, error), control logging globally, and customize subsystem and category for each message.
+
+- [ElegantTabs](https://swiftpackageindex.com/Krusty84/ElegantTabs)\
+  A simple SwiftUI package for macOS that gives you an easy and nice tab view. You can add icons, text, and custom colors. It handles hover and selection effects for you.
 ---
 ### 🛠️ Technologies & Tools
 
