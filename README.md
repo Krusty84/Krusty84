@@ -11,7 +11,9 @@
 
 ---
 ### 📦 Public Contributions
-
+- [Polarion - GitLab Bridge](https://extensions.polarion.com/extensions/378-polarion-gitlab-bridge)\
+  This kit allows to create Issue objects in GitLab and display the information back in Polarion.
+  
 - [YaCloud Serverless Template (NuGet)](https://www.nuget.org/packages/yacloud.serverless.template.nuspec)  
   A simple serverless template to kickstart projects on Yandex Cloud Functions.
 
