@@ -11,6 +11,10 @@
 
 ---
 ### 📦 Public Contributions
+
+- [Apple App Store](https://apps.apple.com/us/developer/alexey-sedoykin/id1837480600)\
+  My applications published on the App Store
+  
 - [Polarion - GitLab Bridge](https://extensions.polarion.com/extensions/378-polarion-gitlab-bridge)\
   This kit allows to create Issue objects in GitLab and display the information back in Polarion.
   
