@@ -21,8 +21,11 @@
 - [YaCloud Serverless Template (NuGet)](https://www.nuget.org/packages/yacloud.serverless.template.nuspec)  
   A simple serverless template to kickstart projects on Yandex Cloud Functions.
 
-- [YaCloud Control Panel (Visual Studio Marketplace)](https://marketplace.visualstudio.com/items?itemName=AlexeySedoykin.YaCloudControlPanel)  
-  A Visual Studio extension to simplify managing Yandex Cloud resources.
+- [Visual Studio Extensions (Visual Studio Marketplace)](https://marketplace.visualstudio.com/search?term=sedoykin&target=VS&category=All%20categories&vsVersion=&sortBy=Relevance)  
+  Visual Studio extensions developed by me.
+
+- [Visual Studio Code Extensions (Visual Studio Code Marketplace)](https://marketplace.visualstudio.com/search?term=sedoykin&target=VSCode&category=All%20categories&sortBy=Relevance)  
+  Visual Studio Code extensions developed by me.
 
 - [Occura Plugin (Obsidian.md)](https://obsidian.md/plugins?search=occura)  
   A plugin for Obsidian.md to find and highlight all occurrences of selected text in notes, similar to Notepad++ or IDEs.
