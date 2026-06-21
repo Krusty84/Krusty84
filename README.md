@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  Everything is done poorly but it works :) While it works for me, please use it at your own discretion. <br>
   No guarantees, no obligations—just my personal projects and experiments.
+  IR's/PR's anyway welcome!
 </p>
 
 ---
