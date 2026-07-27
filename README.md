@@ -91,28 +91,9 @@
   </tr>
 </table>
 
-<table border="0">
-    <tr>
-    <td width="40%" align="center" bgcolor="transparent">
-      <h3>📊 GitHub Stats</h3>
-    </td>
-    <td width="60%" align="center">
-      <h3>🏅 GitHub Achievements</h3>
-    </td>
-  </tr>
-  <tr>
-    <td> <img src="https://github-readme-stats.vercel.app/api?username=Krusty84&show_icons=true&theme=radical" alt="GitHub Stats"/> </td>
-    <td> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krusty84&theme=radical" alt="GitHub Achievements"/> </td>
- </tr>
-</table>
 
 ---
 
-### 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Krusty84&theme=radical)
-
----
 
 ### 📫 How to Reach Me
 
