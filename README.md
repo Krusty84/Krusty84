@@ -116,7 +116,7 @@
 
 ### 📫 How to Reach Me
 
-- **LinkedIn**: [LinkedIn Profile](www.linkedin.com/in/sedoykin)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/sedoykin)
 - **QRZ.com**: [QRZ.com Profile](https://www.qrz.com/db/UB3ARM) in HF Bands:)
 
 ---
