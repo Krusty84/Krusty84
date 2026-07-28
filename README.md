@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  IR's/PR's welcome!
+  Issues, bug reports and pull requests are welcome.
 </p>
 
 ---
