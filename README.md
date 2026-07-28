@@ -9,7 +9,7 @@
 </p>
 
 ---
-### 📦 Public Contributions
+### 📦 Products & Extensions
 
 - [Apple App Store](https://apps.apple.com/us/developer/alexey-sedoykin/id1837480600)\
   My applications published on the App Store
@@ -32,19 +32,4 @@
 - [Swift Package Index](https://swiftpackageindex.com/Krusty84)\
   My Packages for Swift community
   
----
-<table border="0" width="100%">
-  <tr>
-    <td width="80%" align="center">
-       <h3 style="margin: 0; padding: 0;">📈 Contribution Activity</h3>
-    </td>
-  </tr>
-  <tr>
-    <td width="60%" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krusty84&theme=radical" alt="Contribution Activity" />
-    </td>
-  </tr>
-</table>
-
-
 ---
