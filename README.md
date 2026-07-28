@@ -66,8 +66,8 @@
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="POSTMAN"/>
 
-  <!-- Fun -->
-  <img src="https://img.shields.io/badge/BlahBlahBlah-grey?style=for-the-badge" alt="BlahBlahBlah"/>
+  <!-- Etc -->
+  <img src="https://img.shields.io/badge/AS%20NEEDED-grey?style=for-the-badge" alt="AS NEEDED"/>
 
 </p>
 
