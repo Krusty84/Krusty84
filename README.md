@@ -74,17 +74,11 @@
 ---
 <table border="0" width="100%">
   <tr>
-    <td width="30%" align="center" bgcolor="transparent">
-      <h3 style="margin: 0; padding: 0;">🚀 Top Languages</h3>
-    </td>
     <td width="80%" align="center">
        <h3 style="margin: 0; padding: 0;">📈 Contribution Activity</h3>
     </td>
   </tr>
   <tr>
-    <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krusty84&layout=compact&theme=radical" alt="Top Languages" />
-    </td>
     <td width="60%" align="center">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krusty84&theme=radical" alt="Contribution Activity" />
     </td>
