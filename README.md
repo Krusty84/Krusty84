@@ -26,7 +26,7 @@
 - [Visual Studio Code Extensions (Visual Studio Code Marketplace)](https://marketplace.visualstudio.com/search?term=sedoykin&target=VSCode&category=All%20categories&sortBy=Relevance)  
   Visual Studio Code extensions developed by me.
 
-- [Occura Plugin (Obsidian.md)](https://obsidian.md/plugins/occura-word-highlighter)  
+- [Occura Plugin (Obsidian.md)](https://community.obsidian.md/plugins/occura-word-highlighter)  
   A plugin for Obsidian.md to find and highlight all occurrences of selected text in notes, similar to Notepad++ or IDEs.
 
 - [Swift Package Index](https://swiftpackageindex.com/Krusty84)\
