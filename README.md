@@ -5,9 +5,7 @@
 </p>
 
 <p align="center">
-  No guarantees, no obligations - just my personal projects and experiments.
-  <br>
-  IR's/PR's anyway welcome!
+  IR's/PR's welcome!
 </p>
 
 ---
