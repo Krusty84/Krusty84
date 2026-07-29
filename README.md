@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi! </h1>
+<h1 align="center"> Hi! </h1>
 
 <p align="center">
   Here you can find some useful resources related to <strong>Teamcenter</strong>, <strong>Polarion</strong>, and other tools from <strong>Siemens Digital Industries Software</strong>. Additionally, I share some things on <strong>MBSE</strong>, <strong>Yandex Cloud Platform</strong>, <strong>Obsidian.md</strong>, <strong>Amateur radio</strong>, and more.
@@ -9,7 +9,7 @@
 </p>
 
 ---
-### 📦 Products & Extensions
+### Products & Extensions
 
 - [Apple App Store](https://apps.apple.com/us/developer/alexey-sedoykin/id1837480600)\
   My applications published on the App Store
